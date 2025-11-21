@@ -1,2 +1,3 @@
-# Text-Guard
-Text-Guard Emotional Tone Analysis For Proactive Customer Retention
+# VoiceGuard
+
+VoiceGuard is an emotional tone analysis system for proactive customer retention.
